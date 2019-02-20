@@ -12,4 +12,4 @@ It's a short piece of text written in code.
 
 The cryptograms you'll find in this application are substitution ciphers.
 Every letter is replaced by another random letter, and letters are replaced by the same letter throughout the puzzle.
-Guesswork and knowledge of English are needed to crack the code and recover the original text.
+A word frequency chart and a backtracing algorithm are used to crack the code and recover the original text.
