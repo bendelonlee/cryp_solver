@@ -1,0 +1,5238 @@
+---
+:be:
+- being
+- was
+- been
+- is
+- am
+- are
+:have:
+- having
+- had
+- has
+:do:
+- doing
+- did
+- does
+:say:
+- saying
+- said
+- says
+:go:
+- going
+- went
+- gone
+- goes
+:get:
+- getting
+- got
+- gotten
+- gets
+:would: 
+:make:
+- making
+- made
+- makes
+:know:
+- knowing
+- knew
+- known
+- knows
+:think:
+- thinking
+- thought
+- thinks
+:take:
+- taking
+- took
+- taken
+- takes
+:see:
+- seeing
+- saw
+- seen
+- sees
+:come:
+- coming
+- came
+- comes
+:could: 
+:want:
+- wanting
+- wanted
+- wants
+:find:
+- finding
+- found
+- finds
+:give:
+- giving
+- gave
+- given
+- gives
+:tell:
+- telling
+- told
+- tells
+:back:
+- backing
+- backed
+- backs
+:may: 
+:should: 
+:try:
+- trying
+- tried
+- tries
+:ask:
+- asking
+- asked
+- asks
+:state:
+- stating
+- stated
+- states
+:become:
+- becoming
+- became
+- becomes
+:own:
+- owning
+- owned
+- owns
+:put:
+- putting
+- puts
+:keep:
+- keeping
+- kept
+- keeps
+:let:
+- letting
+- lets
+:begin:
+- beginning
+- began
+- begun
+- begins
+:seem:
+- seeming
+- seemed
+- seems
+:hand:
+- handing
+- handed
+- hands
+:might: 
+:place:
+- placing
+- placed
+- places
+:program:
+- programming
+- programmed
+- programs
+:hear:
+- hearing
+- heard
+- hears
+:question:
+- questioning
+- questioned
+- questions
+:point:
+- pointing
+- pointed
+- points
+:believe:
+- believing
+- believed
+- believes
+:bring:
+- bringing
+- brought
+- brings
+:happen:
+- happening
+- happened
+- happens
+:must:
+- musting
+- musted
+- musts
+:write:
+- writing
+- wrote
+- written
+- writes
+:study:
+- studying
+- studied
+- studies
+:issue:
+- issuing
+- issueed
+- issues
+:head:
+- heading
+- headed
+- heads
+:house:
+- housing
+- housed
+- houses
+:provide:
+- providing
+- provided
+- provides
+:sit:
+- sitting
+- sat
+- sits
+:line:
+- lining
+- lined
+- lines
+:end:
+- ending
+- ended
+- ends
+:lose:
+- losing
+- lost
+- loses
+:meet:
+- meeting
+- met
+- meets
+:include:
+- including
+- included
+- includes
+:continue:
+- continuing
+- continueed
+- continues
+:name:
+- naming
+- named
+- names
+:learn:
+- learning
+- learned
+- learns
+:kid:
+- kidding
+- kidded
+- kids
+:understand:
+- understanding
+- understood
+- understands
+:follow:
+- following
+- followed
+- follows
+:face:
+- facing
+- faced
+- faces
+:create:
+- creating
+- created
+- creates
+:speak:
+- speaking
+- spoke
+- spoken
+- speaks
+:read:
+- reading
+- reads
+:allow:
+- allowing
+- allowed
+- allows
+:add:
+- adding
+- added
+- adds
+:spend:
+- spending
+- spent
+- spends
+:grow:
+- growing
+- grew
+- grown
+- grows
+:result:
+- resulting
+- resulted
+- results
+:research:
+- researching
+- researched
+- researches
+:force:
+- forcing
+- forced
+- forces
+:remember:
+- remembering
+- remembered
+- remembers
+:age:
+- aging
+- aged
+- ages
+:process:
+- processing
+- processed
+- processes
+:consider:
+- considerring
+- considerred
+- considers
+:appear:
+- appearing
+- appeared
+- appears
+:buy:
+- buying
+- bought
+- buys
+:wait:
+- waiting
+- waited
+- waits
+:serve:
+- serving
+- served
+- serves
+:market:
+- marketing
+- marketed
+- markets
+:die:
+- diying
+- died
+- dies
+:send:
+- sending
+- sent
+- sends
+:expect:
+- expecting
+- expected
+- expects
+:sense:
+- sensing
+- sensed
+- senses
+:build:
+- building
+- built
+- builds
+:plan:
+- planning
+- planned
+- plans
+:experience:
+- experiencing
+- experienced
+- experiences
+:kill:
+- killing
+- killed
+- kills
+:remain:
+- remaining
+- remained
+- remains
+:suggest:
+- suggesting
+- suggested
+- suggests
+:control:
+- controlling
+- controlled
+- controls
+:raise:
+- raising
+- raised
+- raises
+:care:
+- caring
+- cared
+- cares
+:sell:
+- selling
+- sold
+- sells
+:require:
+- requiring
+- required
+- requires
+:decide:
+- deciding
+- decided
+- decides
+:rate:
+- rating
+- rated
+- rates
+:mind:
+- minding
+- minded
+- minds
+:pull:
+- pulling
+- pulled
+- pulls
+:free:
+- freeing
+- freed
+- frees
+:explain:
+- explaining
+- explained
+- explains
+:develop:
+- developing
+- developed
+- develops
+:view:
+- viewing
+- viewed
+- views
+:carry:
+- carrying
+- carried
+- carries
+:arm:
+- arming
+- armed
+- arms
+:thank:
+- thanking
+- thanked
+- thanks
+:receive:
+- receiving
+- received
+- receives
+:value:
+- valuing
+- valueed
+- values
+:model:
+- modelling
+- modelled
+- models
+:join:
+- joining
+- joined
+- joins
+:position:
+- positioning
+- positioned
+- positions
+:agree:
+- agreeing
+- agreed
+- agrees
+:record:
+- recording
+- recorded
+- records
+:pick:
+- picking
+- picked
+- picks
+:wear:
+- wearing
+- wore
+- worn
+- wears
+:form:
+- forming
+- formed
+- forms
+:project:
+- projecting
+- projected
+- projects
+:star:
+- starring
+- starred
+- stars
+:produce:
+- producing
+- produced
+- produces
+:eat:
+- eating
+- ate
+- eaten
+- eats
+:teach:
+- teaching
+- taught
+- teaches
+:cost:
+- costing
+- costs
+:figure:
+- figuring
+- figured
+- figures
+:picture:
+- picturing
+- pictured
+- pictures
+:clear:
+- clearing
+- cleared
+- clears
+:practice:
+- practicing
+- practiced
+- practices
+:land:
+- landing
+- landed
+- lands
+:describe:
+- describing
+- described
+- describes
+:test:
+- testing
+- tested
+- tests
+:step:
+- stepping
+- stepped
+- steps
+:draw:
+- drawing
+- drew
+- drawn
+- draws
+:choose:
+- choosing
+- chose
+- chosen
+- chooses
+:listen:
+- listening
+- listened
+- listens
+:realize:
+- realizing
+- realized
+- realizes
+:plant:
+- planting
+- planted
+- plants
+:rule:
+- ruling
+- ruled
+- rules
+:risk:
+- risking
+- risked
+- risks
+:fire:
+- firing
+- fired
+- fires
+:involve:
+- involving
+- involved
+- involves
+:seek:
+- seeking
+- sought
+- seeks
+:rest:
+- resting
+- rested
+- rests
+:throw:
+- throwing
+- threw
+- thrown
+- throws
+:top:
+- topping
+- topped
+- tops
+:order:
+- ordering
+- ordered
+- orders
+:fill:
+- filling
+- filled
+- fills
+:represent:
+- representing
+- represented
+- represents
+:push:
+- pushing
+- pushed
+- pushes
+:color:
+- coloring
+- colored
+- colors
+:store:
+- storing
+- stored
+- stores
+:reduce:
+- reducing
+- reduced
+- reduces
+:sound:
+- sounding
+- sounded
+- sounds
+:enter:
+- entering
+- entered
+- enters
+:race:
+- racing
+- raced
+- races
+:concern:
+- concerning
+- concerned
+- concerns
+:shoot:
+- shooting
+- shot
+- shoots
+:save:
+- saving
+- saved
+- saves
+:protect:
+- protecting
+- protected
+- protects
+:approach:
+- approaching
+- approached
+- approaches
+:fund:
+- funding
+- funded
+- funds
+:occur:
+- occurring
+- occurred
+- occurs
+:sign:
+- signing
+- signed
+- signs
+:list:
+- listing
+- listed
+- lists
+:accept:
+- accepting
+- accepted
+- accepts
+:answer:
+- answering
+- answered
+- answers
+:identify:
+- identifying
+- identified
+- identifies
+:determine:
+- determining
+- determined
+- determines
+:prepare:
+- preparing
+- prepared
+- prepares
+:argue:
+- arguing
+- argueed
+- argues
+:recognize:
+- recognizing
+- recognized
+- recognizes
+:indicate:
+- indicating
+- indicated
+- indicates
+:attack:
+- attacking
+- attacked
+- attacks
+:trade:
+- trading
+- traded
+- trades
+:lay:
+- laying
+- laid
+- lays
+:fail:
+- failing
+- failed
+- fails
+:arrive:
+- arriving
+- arrived
+- arrives
+:benefit:
+- benefitting
+- benefitted
+- benefits
+:compare:
+- comparing
+- compared
+- compares
+:miss:
+- missing
+- missed
+- misses
+:design:
+- designing
+- designed
+- designs
+:sort:
+- sorting
+- sorted
+- sorts
+:discuss:
+- discussing
+- discussed
+- discusses
+:guess:
+- guessing
+- guessed
+- guesses
+:prove:
+- proving
+- proved
+- proves
+:hang:
+- hanging
+- hung
+- hangs
+:rock:
+- rocking
+- rocked
+- rocks
+:forget:
+- forgetting
+- forgot
+- forgotten
+- forgets
+:remove:
+- removing
+- removed
+- removes
+:enjoy:
+- enjoying
+- enjoyed
+- enjoys
+:seat:
+- seating
+- seated
+- seats
+:establish:
+- establishing
+- established
+- establishes
+:spring:
+- springing
+- sprang
+- sprung
+- springs
+:avoid:
+- avoiding
+- avoided
+- avoids
+:imagine:
+- imagining
+- imagined
+- imagines
+:respond:
+- responding
+- responded
+- responds
+:maintain:
+- maintaining
+- maintained
+- maintains
+:reveal:
+- revealing
+- revealed
+- reveals
+:contain:
+- containing
+- contained
+- contains
+:apply:
+- applying
+- applied
+- applies
+:measure:
+- measuring
+- measured
+- measures
+:shake:
+- shaking
+- shook
+- shaken
+- shakes
+:interview:
+- interviewing
+- interviewed
+- interviews
+:manage:
+- managing
+- managed
+- manages
+:fish:
+- fishing
+- fished
+- fishes
+:perform:
+- performing
+- performed
+- performs
+:discover:
+- discovering
+- discovered
+- discovers
+:treat:
+- treating
+- treated
+- treats
+:affect:
+- affecting
+- affected
+- affects
+:range:
+- rangeing
+- ranged
+- ranges
+:trouble:
+- troubling
+- troubled
+- troubles
+:challenge:
+- challengeing
+- challenged
+- challenges
+:fear:
+- fearing
+- feared
+- fears
+:dream:
+- dreaming
+- dreamed
+- dreams
+:improve:
+- improving
+- improved
+- improves
+:stuff:
+- stuffing
+- stuffed
+- stuffs
+:reflect:
+- reflecting
+- reflected
+- reflects
+:heat:
+- heating
+- heated
+- heats
+:sing:
+- singing
+- sang
+- sung
+- sings
+:exist:
+- existing
+- existed
+- exists
+:coach:
+- coaching
+- coached
+- coaches
+:tend:
+- tending
+- tended
+- tends
+:score:
+- scoring
+- scored
+- scores
+:account:
+- accounting
+- accounted
+- accounts
+:vote:
+- voting
+- voted
+- votes
+:relate:
+- relating
+- related
+- relates
+:debate:
+- debating
+- debated
+- debates
+:prevent:
+- preventing
+- prevented
+- prevents
+:born:
+- borning
+- borned
+- borns
+:admit:
+- admitting
+- admitted
+- admits
+:assume:
+- assuming
+- assumed
+- assumes
+:wind:
+- winding
+- wound
+- winds
+:suffer:
+- suffering
+- suffered
+- suffers
+:access:
+- accessing
+- accessed
+- accesses
+:judge:
+- judging
+- judged
+- judges
+:publish:
+- publishing
+- published
+- publishes
+:credit:
+- crediting
+- credited
+- credits
+:recall:
+- recalling
+- recalled
+- recalls
+:stare:
+- staring
+- stared
+- stares
+:hurt:
+- hurting
+- hurts
+:track:
+- tracking
+- tracked
+- tracks
+:achieve:
+- achieving
+- achieved
+- achieves
+:object:
+- objecting
+- objected
+- objects
+:refer:
+- referring
+- referred
+- refers
+:announce:
+- announcing
+- announced
+- announces
+:examine:
+- examining
+- examined
+- examines
+:please:
+- pleasing
+- pleased
+- pleases
+:attend:
+- attending
+- attended
+- attends
+:press:
+- pressing
+- pressed
+- presses
+:replace:
+- replacing
+- replaced
+- replaces
+:encourage:
+- encouraging
+- encouraged
+- encourages
+:feature:
+- featuring
+- featured
+- features
+:battle:
+- battling
+- battled
+- battles
+:date:
+- dating
+- dated
+- dates
+:define:
+- defining
+- defined
+- defines
+:ship:
+- shipping
+- shipped
+- ships
+:introduce:
+- introducing
+- introduced
+- introduces
+:attempt:
+- attempting
+- attempted
+- attempts
+:park:
+- parking
+- parked
+- parks
+:spot:
+- spotting
+- spotted
+- spots
+:lack:
+- lacking
+- lacked
+- lacks
+:survey:
+- surveying
+- surveyed
+- surveys
+:refuse:
+- refusing
+- refused
+- refuses
+:screen:
+- screening
+- screened
+- screens
+:hide:
+- hiding
+- hid
+- hidden
+- hides
+:shape:
+- shaping
+- shaped
+- shapes
+:crowd:
+- crowding
+- crowded
+- crowds
+:express:
+- expressing
+- expressed
+- expresses
+:target:
+- targetting
+- targetted
+- targets
+:guard:
+- guarding
+- guarded
+- guards
+:demand:
+- demanding
+- demanded
+- demands
+:deliver:
+- deliverring
+- deliverred
+- delivers
+:observe:
+- observing
+- observed
+- observes
+:average:
+- averaging
+- averaged
+- averages
+:emerge:
+- emerging
+- emerged
+- emerges
+:earn:
+- earning
+- earned
+- earns
+:pound:
+- pounding
+- pounded
+- pounds
+:operate:
+- operating
+- operated
+- operates
+:contribute:
+- contributing
+- contributed
+- contributes
+:block:
+- blocking
+- blocked
+- blocks
+:settle:
+- settling
+- settled
+- settles
+:feed:
+- feeding
+- fed
+- feeds
+:collect:
+- collecting
+- collected
+- collects
+:promote:
+- promoting
+- promoted
+- promotes
+:marry:
+- marrying
+- married
+- marries
+:shop:
+- shopping
+- shopped
+- shops
+:survive:
+- surviving
+- survived
+- survives
+:lift:
+- lifting
+- lifted
+- lifts
+:gather:
+- gathering
+- gathered
+- gathers
+:warm:
+- warming
+- warmed
+- warms
+:insist:
+- insisting
+- insisted
+- insists
+:comment:
+- commenting
+- commented
+- comments
+:ignore:
+- ignoring
+- ignored
+- ignores
+:demonstrate:
+- demonstrating
+- demonstrated
+- demonstrates
+:murder:
+- murdering
+- murdered
+- murders
+:review:
+- reviewing
+- reviewed
+- reviews
+:engage:
+- engaging
+- engaged
+- engages
+:document:
+- documenting
+- documented
+- documents
+:speed:
+- speeding
+- sped
+- speeds
+:influence:
+- influencing
+- influenced
+- influences
+:threaten:
+- threatening
+- threatened
+- threatens
+:commit:
+- committing
+- committed
+- commits
+:wave:
+- waving
+- waved
+- waves
+:deny:
+- denying
+- denied
+- denies
+:suit:
+- suiting
+- suited
+- suits
+:destroy:
+- destroying
+- destroyed
+- destroys
+:burn:
+- burning
+- burned
+- burns
+:function:
+- functioning
+- functioned
+- functions
+:extend:
+- extending
+- extended
+- extends
+:combine:
+- combining
+- combined
+- combines
+:cool:
+- cooling
+- cooled
+- cools
+:remind:
+- reminding
+- reminded
+- reminds
+:depend:
+- depending
+- depended
+- depends
+:grab:
+- grabbing
+- grabbed
+- grabs
+:direct:
+- directing
+- directed
+- directs
+:contact:
+- contacting
+- contacted
+- contacts
+:participate:
+- participating
+- participated
+- participates
+:exercise:
+- exercising
+- exercised
+- exercises
+:hire:
+- hiring
+- hired
+- hires
+:supply:
+- supplying
+- supplied
+- supplies
+:search:
+- searching
+- searched
+- searches
+:circle:
+- circling
+- circled
+- circles
+:exchange:
+- exchangeing
+- exchanged
+- exchanges
+:clean:
+- cleaning
+- cleaned
+- cleans
+:lean:
+- leaning
+- leaned
+- leans
+:damage:
+- damaging
+- damaged
+- damages
+:hate:
+- hating
+- hated
+- hates
+:intend:
+- intending
+- intended
+- intends
+:abuse:
+- abusing
+- abused
+- abuses
+:shut:
+- shutting
+- shuts
+:rain:
+- raining
+- rained
+- rains
+:desire:
+- desiring
+- desired
+- desires
+:nod:
+- nodding
+- nodded
+- nods
+:dry:
+- drying
+- dried
+- dries
+:climb:
+- climbing
+- climbed
+- climbs
+:expand:
+- expanding
+- expanded
+- expands
+:disappear:
+- disappearing
+- disappeared
+- disappears
+:explore:
+- exploring
+- explored
+- explores
+:obtain:
+- obtaining
+- obtained
+- obtains
+:surround:
+- surrounding
+- surrounded
+- surrounds
+:invite:
+- inviting
+- invited
+- invites
+:repeat:
+- repeating
+- repeated
+- repeats
+:predict:
+- predicting
+- predicted
+- predicts
+:surprise:
+- surprising
+- surprised
+- surprises
+:balance:
+- balancing
+- balanced
+- balances
+:adopt:
+- adopting
+- adopted
+- adopts
+:connect:
+- connecting
+- connected
+- connects
+:belong:
+- belonging
+- belonged
+- belongs
+:aid:
+- aiding
+- aided
+- aids
+:photograph:
+- photographing
+- photographed
+- photographs
+:trail:
+- trailing
+- trailed
+- trails
+:organize:
+- organizing
+- organized
+- organizes
+:acknowledge:
+- acknowledging
+- acknowledged
+- acknowledges
+:conclude:
+- concluding
+- concluded
+- concludes
+:dance:
+- dancing
+- danced
+- dances
+:ring:
+- ringing
+- rang
+- rung
+- rings
+:locate:
+- locating
+- located
+- locates
+:recommend:
+- recommending
+- recommended
+- recommends
+:generate:
+- generating
+- generated
+- generates
+:propose:
+- proposing
+- proposed
+- proposes
+:capture:
+- capturing
+- captured
+- captures
+:prefer:
+- preferring
+- preferred
+- prefers
+:stress:
+- stressing
+- stressed
+- stresses
+:select:
+- selecting
+- selected
+- selects
+:root:
+- rooting
+- rooted
+- roots
+:declare:
+- declaring
+- declared
+- declares
+:appreciate:
+- appreciating
+- appreciated
+- appreciates
+:file:
+- filing
+- filed
+- files
+:defend:
+- defending
+- defended
+- defends
+:ought:
+- oughting
+- oughted
+- oughts
+:ensure:
+- ensuring
+- ensured
+- ensures
+:slow:
+- slowing
+- slowed
+- slows
+:warn:
+- warning
+- warned
+- warns
+:guide:
+- guiding
+- guided
+- guides
+:steal:
+- stealing
+- stole
+- stolen
+- steals
+:pursue:
+- pursuing
+- pursueed
+- pursues
+:slip:
+- slipping
+- slipped
+- slips
+:correct:
+- correcting
+- corrected
+- corrects
+:blame:
+- blaming
+- blamed
+- blames
+:investigate:
+- investigating
+- investigated
+- investigates
+:kick:
+- kicking
+- kicked
+- kicks
+:solve:
+- solving
+- solved
+- solves
+:frame:
+- framing
+- framed
+- frames
+:eliminate:
+- eliminating
+- eliminated
+- eliminates
+:host:
+- hosting
+- hosted
+- hosts
+:afford:
+- affording
+- afforded
+- affords
+:confirm:
+- confirming
+- confirmed
+- confirms
+:fix:
+- fixxing
+- fixed
+- fixes
+:appeal:
+- appealing
+- appealed
+- appeals
+:rely:
+- relying
+- relied
+- relies
+:complain:
+- complaining
+- complained
+- complains
+:attract:
+- attracting
+- attracted
+- attracts
+:separate:
+- separating
+- separated
+- separates
+:pour:
+- pouring
+- poured
+- pours
+:stir:
+- stirring
+- stirred
+- stirs
+:tear:
+- tearing
+- tore
+- torn
+- tears
+:doubt:
+- doubting
+- doubted
+- doubts
+:copy:
+- copying
+- copied
+- copies
+:tip:
+- tipping
+- tipped
+- tips
+:cite:
+- citing
+- cited
+- cites
+:divide:
+- dividing
+- divided
+- divides
+:oppose:
+- opposing
+- opposed
+- opposes
+:employ:
+- employing
+- employed
+- employs
+:witness:
+- witnessing
+- witnessed
+- witnesses
+:flow:
+- flowing
+- flowed
+- flows
+:waste:
+- wasting
+- wasted
+- wastes
+:emphasize:
+- emphasizing
+- emphasized
+- emphasizes
+:bomb:
+- bombing
+- bombed
+- bombs
+:invest:
+- investing
+- invested
+- invests
+:expose:
+- exposing
+- exposed
+- exposes
+:succeed:
+- succeeding
+- succeeded
+- succeeds
+:celebrate:
+- celebrating
+- celebrated
+- celebrates
+:accuse:
+- accusing
+- accused
+- accuses
+:reject:
+- rejecting
+- rejected
+- rejects
+:taste:
+- tasting
+- tasted
+- tastes
+:convince:
+- convincing
+- convinced
+- convinces
+:assess:
+- assessing
+- assessed
+- assesses
+:lower:
+- lowering
+- lowered
+- lowers
+:approve:
+- approving
+- approved
+- approves
+:acquire:
+- acquiring
+- acquired
+- acquires
+:compete:
+- competing
+- competed
+- competes
+:signal:
+- signalling
+- signalled
+- signals
+:honor:
+- honoring
+- honored
+- honors
+:knock:
+- knocking
+- knocked
+- knocks
+:wrap:
+- wrapping
+- wrapped
+- wraps
+:graduate:
+- graduating
+- graduated
+- graduates
+:request:
+- requesting
+- requested
+- requests
+:scream:
+- screaming
+- screamed
+- screams
+:drag:
+- dragging
+- dragged
+- drags
+:recover:
+- recovering
+- recovered
+- recovers
+:wash:
+- washing
+- washed
+- washes
+:schedule:
+- scheduling
+- scheduled
+- schedules
+:post:
+- posting
+- posted
+- posts
+:shout:
+- shouting
+- shouted
+- shouts
+:suppose:
+- supposing
+- supposed
+- supposes
+:perceive:
+- perceiving
+- perceived
+- perceives
+:inform:
+- informing
+- informed
+- informs
+:abandon:
+- abandoning
+- abandoned
+- abandons
+:transform:
+- transforming
+- transformed
+- transforms
+:bother:
+- bothering
+- bothered
+- bothers
+:consist:
+- consisting
+- consisted
+- consists
+:enable:
+- enabling
+- enabled
+- enables
+:bend:
+- bending
+- bent
+- bends
+:shall:
+- shalling
+- shalled
+- shalls
+:double:
+- doubling
+- doubled
+- doubles
+:print:
+- printing
+- printed
+- prints
+:preserve:
+- preserving
+- preserved
+- preserves
+:arrange:
+- arrangeing
+- arranged
+- arranges
+:reply:
+- replying
+- replied
+- replies
+:deserve:
+- deserving
+- deserved
+- deserves
+:pose:
+- posing
+- posed
+- poses
+:resolve:
+- resolving
+- resolved
+- resolves
+:joke:
+- joking
+- joked
+- jokes
+:urge:
+- urging
+- urged
+- urges
+:breathe:
+- breathing
+- breathed
+- breathes
+:elect:
+- electing
+- elected
+- elects
+:volunteer:
+- volunteering
+- volunteered
+- volunteers
+:implement:
+- implementing
+- implemented
+- implements
+:advance:
+- advancing
+- advanced
+- advances
+:shock:
+- shocking
+- shocked
+- shocks
+:inspire:
+- inspiring
+- inspired
+- inspires
+:adjust:
+- adjusting
+- adjusted
+- adjusts
+:retire:
+- retiring
+- retired
+- retires
+:dominate:
+- dominating
+- dominated
+- dominates
+:analyze:
+- analyzing
+- analyzed
+- analyzes
+:attach:
+- attaching
+- attached
+- attaches
+:enhance:
+- enhancing
+- enhanced
+- enhances
+:impose:
+- imposing
+- imposed
+- imposes
+:evaluate:
+- evaluating
+- evaluated
+- evaluates
+:accomplish:
+- accomplishing
+- accomplished
+- accomplishes
+:illustrate:
+- illustrating
+- illustrated
+- illustrates
+:concentrate:
+- concentrating
+- concentrated
+- concentrates
+:vary:
+- varying
+- varied
+- varies
+:round:
+- rounding
+- rounded
+- rounds
+:command:
+- commanding
+- commanded
+- commands
+:toss:
+- tossing
+- tossed
+- tosses
+:bury:
+- burying
+- buried
+- buries
+:pray:
+- praying
+- prayed
+- prays
+:smoke:
+- smoking
+- smoked
+- smokes
+:confront:
+- confronting
+- confronted
+- confronts
+:peer:
+- peering
+- peered
+- peers
+:accompany:
+- accompanying
+- accompanied
+- accompanies
+:whisper:
+- whisperring
+- whisperred
+- whispers
+:dig:
+- digging
+- dug
+- digs
+:resist:
+- resisting
+- resisted
+- resists
+:embrace:
+- embracing
+- embraced
+- embraces
+:assist:
+- assisting
+- assisted
+- assists
+:construct:
+- constructing
+- constructed
+- constructs
+:bind:
+- binding
+- bound
+- binds
+:weigh:
+- weighing
+- weighed
+- weighs
+:install:
+- installing
+- installed
+- installs
+:quit:
+- quiting
+- quits
+:negotiate:
+- negotiating
+- negotiated
+- negotiates
+:restore:
+- restoring
+- restored
+- restores
+:advise:
+- advising
+- advised
+- advises
+:criticize:
+- criticizing
+- criticized
+- criticizes
+:assure:
+- assuring
+- assured
+- assures
+:award:
+- awarding
+- awarded
+- awards
+:arise:
+- arising
+- arised
+- arises
+:snap:
+- snapping
+- snapped
+- snaps
+:incorporate:
+- incorporating
+- incorporated
+- incorporates
+:assign:
+- assigning
+- assigned
+- assigns
+:label:
+- labelling
+- labelled
+- labels
+:advocate:
+- advocating
+- advocated
+- advocates
+:draft:
+- drafting
+- drafted
+- drafts
+:yell:
+- yelling
+- yelled
+- yells
+:sweep:
+- sweeping
+- swept
+- sweeps
+:spin:
+- spinning
+- spun
+- spins
+:rank:
+- ranking
+- ranked
+- ranks
+:found:
+- founding
+- founded
+- founds
+:react:
+- reacting
+- reacted
+- reacts
+:communicate:
+- communicating
+- communicated
+- communicates
+:disagree:
+- disagreeing
+- disagreed
+- disagrees
+:proceed:
+- proceeding
+- proceeded
+- proceeds
+:overcome:
+- overcoming
+- overcame
+- overcomes
+:occupy:
+- occupying
+- occupied
+- occupies
+:wipe:
+- wiping
+- wiped
+- wipes
+:retain:
+- retaining
+- retained
+- retains
+:translate:
+- translating
+- translated
+- translates
+:strip:
+- stripping
+- stripped
+- strips
+:interpret:
+- interpreting
+- interpreted
+- interprets
+:detect:
+- detecting
+- detected
+- detects
+:withdraw:
+- withdrawing
+- withdrawed
+- withdraws
+:testify:
+- testifying
+- testified
+- testifies
+:imply:
+- implying
+- implied
+- implies
+:dismiss:
+- dismissing
+- dismissed
+- dismisses
+:bake:
+- baking
+- baked
+- bakes
+:freeze:
+- freezing
+- froze
+- frozen
+- freezes
+:finance:
+- financing
+- financed
+- finances
+:evolve:
+- evolving
+- evolved
+- evolves
+:counter:
+- counterring
+- counterred
+- counters
+:justify:
+- justifying
+- justified
+- justifies
+:protest:
+- protesting
+- protested
+- protests
+:crash:
+- crashing
+- crashed
+- crashes
+:possess:
+- possessing
+- possessed
+- possesses
+:tap:
+- tapping
+- tapped
+- taps
+:swim:
+- swimming
+- swam
+- swum
+- swims
+:tire:
+- tiring
+- tired
+- tires
+:relax:
+- relaxxing
+- relaxed
+- relaxes
+:rub:
+- rubbing
+- rubbed
+- rubs
+:fade:
+- fading
+- faded
+- fades
+:characterize:
+- characterizing
+- characterized
+- characterizes
+:alter:
+- altering
+- altered
+- alters
+:constitute:
+- constituting
+- constituted
+- constitutes
+:squeeze:
+- squeezing
+- squeezed
+- squeezes
+:convert:
+- converting
+- converted
+- converts
+:pretend:
+- pretending
+- pretended
+- pretends
+:split:
+- splitting
+- splits
+:violate:
+- violating
+- violated
+- violates
+:adapt:
+- adapting
+- adapted
+- adapts
+:flee:
+- fleeing
+- fled
+- flees
+:distribute:
+- distributing
+- distributed
+- distributes
+:divorce:
+- divorcing
+- divorced
+- divorces
+:owe:
+- owing
+- owed
+- owes
+:sustain:
+- sustaining
+- sustained
+- sustains
+:mount:
+- mounting
+- mounted
+- mounts
+:differ:
+- differing
+- differed
+- differs
+:satisfy:
+- satisfying
+- satisfied
+- satisfies
+:pile:
+- piling
+- piled
+- piles
+:consume:
+- consuming
+- consumed
+- consumes
+:crack:
+- cracking
+- cracked
+- cracks
+:educate:
+- educating
+- educated
+- educates
+:calculate:
+- calculating
+- calculated
+- calculates
+:rid:
+- ridding
+- rids
+:qualify:
+- qualifying
+- qualified
+- qualifies
+:derive:
+- deriving
+- derived
+- derives
+:impress:
+- impressing
+- impressed
+- impresses
+:resemble:
+- resembling
+- resembled
+- resembles
+:strengthen:
+- strengthening
+- strengthened
+- strengthens
+:delay:
+- delaying
+- delayed
+- delays
+:explode:
+- exploding
+- exploded
+- explodes
+:prompt:
+- prompting
+- prompted
+- prompts
+:absorb:
+- absorbing
+- absorbed
+- absorbs
+:sue:
+- suing
+- sueed
+- sues
+:overlook:
+- overlooking
+- overlooked
+- overlooks
+:float:
+- floating
+- floated
+- floats
+:undergo:
+- undergoing
+- undergoed
+- undergoes
+:assert:
+- asserting
+- asserted
+- asserts
+:pitch:
+- pitching
+- pitched
+- pitches
+:register:
+- registering
+- registered
+- registers
+:appoint:
+- appointing
+- appointed
+- appoints
+:wander:
+- wandering
+- wandered
+- wanders
+:submit:
+- submitting
+- submitted
+- submits
+:anticipate:
+- anticipating
+- anticipated
+- anticipates
+:shrug:
+- shrugging
+- shrugged
+- shrugs
+:cope:
+- coping
+- coped
+- copes
+:wound:
+- wounding
+- wounded
+- wounds
+:depict:
+- depicting
+- depicted
+- depicts
+:borrow:
+- borrowing
+- borrowed
+- borrows
+:devote:
+- devoting
+- devoted
+- devotes
+:seize:
+- seizing
+- seized
+- seizes
+:distinguish:
+- distinguishing
+- distinguished
+- distinguishes
+:portray:
+- portraying
+- portrayed
+- portrays
+:persuade:
+- persuading
+- persuaded
+- persuades
+:admire:
+- admiring
+- admired
+- admires
+:exceed:
+- exceeding
+- exceeded
+- exceeds
+:chase:
+- chasing
+- chased
+- chases
+:recruit:
+- recruiting
+- recruited
+- recruits
+:gaze:
+- gazing
+- gazed
+- gazes
+:swear:
+- swearing
+- swore
+- sworn
+- swears
+:reinforce:
+- reinforcing
+- reinforced
+- reinforces
+:slice:
+- slicing
+- sliced
+- slices
+:sigh:
+- sighing
+- sighed
+- sighs
+:attribute:
+- attributing
+- attributed
+- attributes
+:dare:
+- daring
+- dared
+- dares
+:highlight:
+- highlighting
+- highlighted
+- highlights
+:decrease:
+- decreasing
+- decreased
+- decreases
+:compose:
+- composing
+- composed
+- composes
+:regulate:
+- regulating
+- regulated
+- regulates
+:shine:
+- shining
+- shone
+- shines
+:remark:
+- remarking
+- remarked
+- remarks
+:resign:
+- resigning
+- resigned
+- resigns
+:reward:
+- rewarding
+- rewarded
+- rewards
+:invent:
+- inventing
+- invented
+- invents
+:interrupt:
+- interrupting
+- interrupted
+- interrupts
+:stem:
+- stemming
+- stemmed
+- stems
+:hunt:
+- hunting
+- hunted
+- hunts
+:echo:
+- echoing
+- echoed
+- echoes
+:integrate:
+- integrating
+- integrated
+- integrates
+:pump:
+- pumping
+- pumped
+- pumps
+:beg:
+- begging
+- begged
+- begs
+:slam:
+- slamming
+- slammed
+- slams
+:melt:
+- melting
+- melted
+- melts
+:entitle:
+- entitling
+- entitled
+- entitles
+:exclude:
+- excluding
+- excluded
+- excludes
+:greet:
+- greeting
+- greeted
+- greets
+:march:
+- marching
+- marched
+- marches
+:fold:
+- folding
+- folded
+- folds
+:reverse:
+- reversing
+- reversed
+- reverses
+:confuse:
+- confusing
+- confused
+- confuses
+:plead:
+- pleading
+- pled
+- pleads
+:initiate:
+- initiating
+- initiated
+- initiates
+:swallow:
+- swallowing
+- swallowed
+- swallows
+:motivate:
+- motivating
+- motivated
+- motivates
+:render:
+- renderring
+- renderred
+- renders
+:restrict:
+- restricting
+- restricted
+- restricts
+:enforce:
+- enforcing
+- enforced
+- enforces
+:lend:
+- lending
+- lent
+- lends
+:contend:
+- contending
+- contended
+- contends
+:assemble:
+- assembling
+- assembled
+- assembles
+:burst:
+- bursting
+- bursts
+:facilitate:
+- facilitating
+- facilitated
+- facilitates
+:rip:
+- ripping
+- ripped
+- rips
+:flood:
+- flooding
+- flooded
+- floods
+:consult:
+- consulting
+- consulted
+- consults
+:forgive:
+- forgiving
+- forgave
+- forgiven
+- forgives
+:drift:
+- drifting
+- drifted
+- drifts
+:drain:
+- draining
+- drained
+- drains
+:hurry:
+- hurrying
+- hurried
+- hurries
+:suck:
+- sucking
+- sucked
+- sucks
+:broadcast:
+- broadcasting
+- broadcasts
+:leap:
+- leaping
+- leaped
+- leaps
+:dump:
+- dumping
+- dumped
+- dumps
+:execute:
+- executing
+- executed
+- executes
+:harm:
+- harming
+- harmed
+- harms
+:endure:
+- enduring
+- endured
+- endures
+:strain:
+- straining
+- strained
+- strains
+:behave:
+- behaving
+- behaved
+- behaves
+:administer:
+- administering
+- administered
+- administers
+:await:
+- awaiting
+- awaited
+- awaits
+:trigger:
+- triggering
+- triggered
+- triggers
+:spill:
+- spilling
+- spilled
+- spills
+:convict:
+- convicting
+- convicted
+- convicts
+:modify:
+- modifying
+- modified
+- modifies
+:boost:
+- boosting
+- boosted
+- boosts
+:undermine:
+- undermining
+- undermined
+- undermines
+:govern:
+- governing
+- governed
+- governs
+:accommodate:
+- accommodating
+- accommodated
+- accommodates
+:injure:
+- injuring
+- injured
+- injures
+:reserve:
+- reserving
+- reserved
+- reserves
+:apologize:
+- apologizing
+- apologized
+- apologizes
+:compromise:
+- compromising
+- compromised
+- compromises
+:scatter:
+- scattering
+- scattered
+- scatters
+:convey:
+- conveying
+- conveyed
+- conveys
+:relieve:
+- relieving
+- relieved
+- relieves
+:suspend:
+- suspending
+- suspended
+- suspends
+:resume:
+- resuming
+- resumed
+- resumes
+:rebuild:
+- rebuilding
+- rebuilded
+- rebuilds
+:bounce:
+- bouncing
+- bounced
+- bounces
+:hook:
+- hooking
+- hooked
+- hooks
+:click:
+- clicking
+- clicked
+- clicks
+:dedicate:
+- dedicating
+- dedicated
+- dedicates
+:carve:
+- carving
+- carved
+- carves
+:scare:
+- scaring
+- scared
+- scares
+:diagnose:
+- diagnosing
+- diagnosed
+- diagnoses
+:crawl:
+- crawling
+- crawled
+- crawls
+:hug:
+- hugging
+- hugged
+- hugs
+:punish:
+- punishing
+- punished
+- punishes
+:repair:
+- repairing
+- repaired
+- repairs
+:endorse:
+- endorsing
+- endorsed
+- endorses
+:cancel:
+- cancelling
+- cancelled
+- cancels
+:blend:
+- blending
+- blended
+- blends
+:peel:
+- peeling
+- peeled
+- peels
+:hesitate:
+- hesitating
+- hesitated
+- hesitates
+:flip:
+- flipping
+- flipped
+- flips
+:vanish:
+- vanishing
+- vanished
+- vanishes
+:confess:
+- confessing
+- confessed
+- confesses
+:enroll:
+- enrolling
+- enrolled
+- enrolls
+:diminish:
+- diminishing
+- diminished
+- diminishes
+:minimize:
+- minimizing
+- minimized
+- minimizes
+:chop:
+- chopping
+- chopped
+- chops
+:isolate:
+- isolating
+- isolated
+- isolates
+:prohibit:
+- prohibiting
+- prohibited
+- prohibits
+:stumble:
+- stumbling
+- stumbled
+- stumbles
+:descend:
+- descending
+- descended
+- descends
+:cooperate:
+- cooperating
+- cooperated
+- cooperates
+:scan:
+- scanning
+- scanned
+- scans
+:undertake:
+- undertaking
+- undertaked
+- undertakes
+:oversee:
+- overseeing
+- overseed
+- oversees
+:sacrifice:
+- sacrificing
+- sacrificed
+- sacrifices
+:slap:
+- slapping
+- slapped
+- slaps
+:donate:
+- donating
+- donated
+- donates
+:tackle:
+- tackling
+- tackled
+- tackles
+:bow:
+- bowing
+- bowed
+- bows
+:tuck:
+- tucking
+- tucked
+- tucks
+:specialize:
+- specializing
+- specialized
+- specializes
+:sail:
+- sailing
+- sailed
+- sails
+:condemn:
+- condemning
+- condemned
+- condemns
+:unite:
+- uniting
+- united
+- unites
+:equip:
+- equiping
+- equiped
+- equips
+:bless:
+- blessing
+- blessed
+- blesses
+:conceive:
+- conceiving
+- conceived
+- conceives
+:grasp:
+- grasping
+- grasped
+- grasps
+:haul:
+- hauling
+- hauled
+- hauls
+:concede:
+- conceding
+- conceded
+- concedes
+:ruin:
+- ruining
+- ruined
+- ruins
+:discourage:
+- discouraging
+- discouraged
+- discourages
+:instruct:
+- instructing
+- instructed
+- instructs
+:manipulate:
+- manipulating
+- manipulated
+- manipulates
+:edit:
+- editing
+- edited
+- edits
+:whip:
+- whipping
+- whipped
+- whips
+:boil:
+- boiling
+- boiled
+- boils
+:utilize:
+- utilizing
+- utilized
+- utilizes
+:dissolve:
+- dissolving
+- dissolved
+- dissolves
+:spell:
+- spelling
+- spelled
+- spells
+:insert:
+- inserting
+- inserted
+- inserts
+:crush:
+- crushing
+- crushed
+- crushes
+:tolerate:
+- tolerating
+- tolerated
+- tolerates
+:scramble:
+- scrambling
+- scrambled
+- scrambles
+:decorate:
+- decorating
+- decorated
+- decorates
+:interact:
+- interacting
+- interacted
+- interacts
+:punch:
+- punching
+- punched
+- punches
+:persist:
+- persisting
+- persisted
+- persists
+:shed:
+- shedding
+- sheds
+:foster:
+- fosterring
+- fosterred
+- fosters
+:cheat:
+- cheating
+- cheated
+- cheats
+:heal:
+- healing
+- healed
+- heals
+:exploit:
+- exploiting
+- exploited
+- exploits
+:shove:
+- shoving
+- shoved
+- shoves
+:comprise:
+- comprising
+- comprised
+- comprises
+:disclose:
+- disclosing
+- disclosed
+- discloses
+:interfere:
+- interfering
+- interfered
+- interferes
+:outline:
+- outlining
+- outlined
+- outlines
+:uncover:
+- uncovering
+- uncovered
+- uncovers
+:stimulate:
+- stimulating
+- stimulated
+- stimulates
+:compel:
+- compelling
+- compelled
+- compels
+:proclaim:
+- proclaiming
+- proclaimed
+- proclaims
+:hike:
+- hiking
+- hiked
+- hikes
+:cease:
+- ceasing
+- ceased
+- ceases
+:inherit:
+- inheritting
+- inheritted
+- inherits
+:shrink:
+- shrinking
+- shrank
+- shrunk
+- shrinks
+:envision:
+- envisioning
+- envisioned
+- envisions
+:weaken:
+- weakening
+- weakened
+- weakens
+:deploy:
+- deploying
+- deployed
+- deploys
+:distract:
+- distracting
+- distracted
+- distracts
+:invade:
+- invading
+- invaded
+- invades
+:classify:
+- classifying
+- classified
+- classifies
+:skip:
+- skipping
+- skipped
+- skips
+:dip:
+- dipping
+- dipped
+- dips
+:tighten:
+- tightening
+- tightened
+- tightens
+:boast:
+- boasting
+- boasted
+- boasts
+:pat:
+- patting
+- patted
+- pats
+:unfold:
+- unfolding
+- unfolded
+- unfolds
+:deem:
+- deeming
+- deemed
+- deems
+:sneak:
+- sneaking
+- sneaked
+- sneaks
+:disturb:
+- disturbing
+- disturbed
+- disturbs
+:cure:
+- curing
+- cured
+- cures
+:spare:
+- sparing
+- spared
+- spares
+:regret:
+- regretting
+- regretted
+- regrets
+:cling:
+- clinging
+- clung
+- clings
+:blink:
+- blinking
+- blinked
+- blinks
+:plunge:
+- plungeing
+- plunged
+- plunges
+:steer:
+- steering
+- steered
+- steers
+:cheer:
+- cheering
+- cheered
+- cheers
+:thrive:
+- thriving
+- thrived
+- thrives
+:chew:
+- chewing
+- chewed
+- chews
+:comply:
+- complying
+- complied
+- complies
+:scratch:
+- scratching
+- scratched
+- scratches
+:sprinkle:
+- sprinkling
+- sprinkled
+- sprinkles
+:forbid:
+- forbidding
+- forbade
+- forbidden
+- forbids
+:poke:
+- poking
+- poked
+- pokes
+:opt:
+- opting
+- opted
+- opts
+:soar:
+- soaring
+- soared
+- soars
+:enact:
+- enacting
+- enacted
+- enacts
+:exhaust:
+- exhausting
+- exhausted
+- exhausts
+:prevail:
+- prevailing
+- prevailed
+- prevails
+:screw:
+- screwing
+- screwed
+- screws
+:drill:
+- drilling
+- drilled
+- drills
+:authorize:
+- authorizing
+- authorized
+- authorizes
+:frown:
+- frowning
+- frowned
+- frowns
+:regain:
+- regaining
+- regained
+- regains
+:overwhelm:
+- overwhelming
+- overwhelmed
+- overwhelms
+:contemplate:
+- contemplating
+- contemplated
+- contemplates
+:update:
+- updating
+- updated
+- updates
+:spark:
+- sparking
+- sparked
+- sparks
+:speculate:
+- speculating
+- speculated
+- speculates
+:preach:
+- preaching
+- preached
+- preaches
+:provoke:
+- provoking
+- provoked
+- provokes
+:mutter:
+- mutterring
+- mutterred
+- mutters
+:depart:
+- departing
+- departed
+- departs
+:soak:
+- soaking
+- soaked
+- soaks
+:transmit:
+- transmitting
+- transmitted
+- transmits
+:harvest:
+- harvesting
+- harvested
+- harvests
+:coordinate:
+- coordinating
+- coordinated
+- coordinates
+:specify:
+- specifying
+- specified
+- specifies
+:frustrate:
+- frustrating
+- frustrated
+- frustrates
+:articulate:
+- articulating
+- articulated
+- articulates
+:swell:
+- swelling
+- swelled
+- swells
+:soften:
+- softening
+- softened
+- softens
+:straighten:
+- straightening
+- straightened
+- straightens
+:weave:
+- weaving
+- wove
+- woven
+- weaves
+:trim:
+- trimming
+- trimmed
+- trims
+:accelerate:
+- accelerating
+- accelerated
+- accelerates
+:drown:
+- drowning
+- drowned
+- drowns
+:spit:
+- spitting
+- spits
+:kneel:
+- kneeling
+- knelt
+- kneels
+:dictate:
+- dictating
+- dictated
+- dictates
+can:
+- cans
+- canning
+- canned
+- canned
+will:
+- wills
+- willing
+- willed
+- willed
+like:
+- likes
+- liking
+- liked
+- liked
+look:
+- looks
+- looking
+- looked
+- looked
+use:
+- uses
+- using
+- used
+- used
+back:
+- backs
+- backing
+- backed
+- backed
+work:
+- works
+- working
+- worked
+- worked
+call:
+- calls
+- calling
+- called
+- called
+last:
+- lasts
+- lasting
+- lasted
+- lasted
+need:
+- needs
+- needing
+- needed
+- needed
+feel:
+- feels
+- feeling
+- felt
+- felt
+state:
+- states
+- stating
+- stated
+- stated
+own:
+- owns
+- owning
+- owned
+- owned
+leave:
+- leaves
+- leaving
+- left
+- left
+mean:
+- means
+- meaning
+- meant
+- meant
+help:
+- helps
+- helping
+- helped
+- helped
+talk:
+- talks
+- talking
+- talked
+- talked
+turn:
+- turns
+- turning
+- turned
+- turned
+start:
+- starts
+- starting
+- started
+- started
+hand:
+- hands
+- handing
+- handed
+- handed
+show:
+- shows
+- showwing
+- showed
+- showed
+place:
+- places
+- placing
+- placed
+- placed
+program:
+- programs
+- programming
+- programmed
+- programmed
+question:
+- questions
+- questioning
+- questioned
+- questioned
+play:
+- plays
+- playing
+- played
+- played
+run:
+- runs
+- running
+- ran
+move:
+- moves
+- moving
+- moved
+- moved
+live:
+- lives
+- living
+- lived
+- lived
+point:
+- points
+- pointing
+- pointed
+- pointed
+hold:
+- holds
+- holding
+- held
+- held
+study:
+- studies
+- studying
+- studied
+- studied
+issue:
+- issues
+- issuing
+- issueed
+- issueed
+head:
+- heads
+- heading
+- headed
+- headed
+house:
+- houses
+- housing
+- housed
+- housed
+line:
+- lines
+- lining
+- lined
+- lined
+end:
+- ends
+- ending
+- ended
+- ended
+stand:
+- stands
+- standing
+- stood
+- stood
+pay:
+- pays
+- paying
+- paid
+- paid
+set:
+- sets
+- setting
+name:
+- names
+- naming
+- named
+- named
+change:
+- changes
+- changeing
+- changed
+- changed
+kid:
+- kids
+- kidding
+- kidded
+- kidded
+lead:
+- leads
+- leading
+- led
+- led
+watch:
+- watches
+- watching
+- watched
+- watched
+stop:
+- stops
+- stopping
+- stopped
+- stopped
+face:
+- faces
+- facing
+- faced
+- faced
+result:
+- results
+- resulting
+- resulted
+- resulted
+open:
+- opens
+- opening
+- opened
+- opened
+walk:
+- walks
+- walking
+- walked
+- walked
+win:
+- wins
+- winning
+- won
+- won
+research:
+- researches
+- researching
+- researched
+- researched
+force:
+- forces
+- forcing
+- forced
+- forced
+offer:
+- offers
+- offering
+- offered
+- offered
+age:
+- ages
+- aging
+- aged
+- aged
+love:
+- loves
+- loving
+- loved
+- loved
+process:
+- processes
+- processing
+- processed
+- processed
+market:
+- markets
+- marketing
+- marketed
+- marketed
+sense:
+- senses
+- sensing
+- sensed
+- sensed
+stay:
+- stays
+- staying
+- stayed
+- stayed
+fall:
+- falls
+- falling
+- fell
+- fallen
+plan:
+- plans
+- planning
+- planned
+- planned
+cut:
+- cuts
+- cutting
+experience:
+- experiences
+- experiencing
+- experienced
+- experienced
+reach:
+- reaches
+- reaching
+- reached
+- reached
+control:
+- controls
+- controlling
+- controlled
+- controlled
+care:
+- cares
+- caring
+- cared
+- cared
+pass:
+- passes
+- passing
+- passed
+- passed
+report:
+- reports
+- reporting
+- reported
+- reported
+rate:
+- rates
+- rating
+- rated
+- rated
+light:
+- lights
+- lighting
+- lit
+- lighted
+mind:
+- minds
+- minding
+- minded
+- minded
+return:
+- returns
+- returning
+- returned
+- returned
+free:
+- frees
+- freeing
+- freed
+- freed
+hope:
+- hopes
+- hoping
+- hoped
+- hoped
+view:
+- views
+- viewing
+- viewed
+- viewed
+drive:
+- drives
+- driving
+- drove
+- driven
+arm:
+- arms
+- arming
+- armed
+- armed
+break:
+- breaks
+- breaking
+- broke
+- broken
+value:
+- values
+- valuing
+- valueed
+- valueed
+model:
+- models
+- modelling
+- modelled
+- modelled
+position:
+- positions
+- positioning
+- positioned
+- positioned
+record:
+- records
+- recording
+- recorded
+- recorded
+form:
+- forms
+- forming
+- formed
+- formed
+support:
+- supports
+- supporting
+- supported
+- supported
+matter:
+- matters
+- mattering
+- mattered
+- mattered
+project:
+- projects
+- projecting
+- projected
+- projected
+hit:
+- hits
+- hitting
+base:
+- bases
+- basing
+- based
+- based
+star:
+- stars
+- starring
+- starred
+- starred
+cost:
+- costs
+- costing
+figure:
+- figures
+- figuring
+- figured
+- figured
+cover:
+- covers
+- covering
+- covered
+- covered
+picture:
+- pictures
+- picturing
+- pictured
+- pictured
+clear:
+- clears
+- clearing
+- cleared
+- cleared
+practice:
+- practices
+- practicing
+- practiced
+- practiced
+land:
+- lands
+- landing
+- landed
+- landed
+test:
+- tests
+- testing
+- tested
+- tested
+catch:
+- catches
+- catching
+- caught
+- caught
+step:
+- steps
+- stepping
+- stepped
+- stepped
+cause:
+- causes
+- causing
+- caused
+- caused
+plant:
+- plants
+- planting
+- planted
+- planted
+rule:
+- rules
+- ruling
+- ruled
+- ruled
+close:
+- closes
+- closing
+- closed
+- closed
+risk:
+- risks
+- risking
+- risked
+- risked
+fire:
+- fires
+- firing
+- fired
+- fired
+increase:
+- increases
+- increasing
+- increased
+- increased
+rest:
+- rests
+- resting
+- rested
+- rested
+deal:
+- deals
+- dealing
+- dealt
+- dealt
+fight:
+- fights
+- fighting
+- fought
+- fought
+top:
+- tops
+- topping
+- topped
+- topped
+order:
+- orders
+- ordering
+- ordered
+- ordered
+focus:
+- focusses
+- focussing
+- focussed
+- focussed
+drop:
+- drops
+- dropping
+- dropped
+- dropped
+color:
+- colors
+- coloring
+- colored
+- colored
+store:
+- stores
+- storing
+- stored
+- stored
+sound:
+- sounds
+- sounding
+- sounded
+- sounded
+note:
+- notes
+- noting
+- noted
+- noted
+share:
+- shares
+- sharing
+- shared
+- shared
+race:
+- races
+- racing
+- raced
+- raced
+concern:
+- concerns
+- concerning
+- concerned
+- concerned
+rise:
+- rises
+- rising
+- rose
+- risen
+approach:
+- approaches
+- approaching
+- approached
+- approached
+lie:
+- lies
+- liying
+- lay
+- lain
+fund:
+- funds
+- funding
+- funded
+- funded
+sign:
+- signs
+- signing
+- signed
+- signed
+list:
+- lists
+- listing
+- listed
+- listed
+answer:
+- answers
+- answering
+- answered
+- answered
+wonder:
+- wonders
+- wondering
+- wondered
+- wondered
+attack:
+- attacks
+- attacking
+- attacked
+- attacked
+trade:
+- trades
+- trading
+- traded
+- traded
+benefit:
+- benefits
+- benefitting
+- benefitted
+- benefitted
+present:
+- presents
+- presenting
+- presented
+- presented
+design:
+- designs
+- designing
+- designed
+- designed
+sort:
+- sorts
+- sorting
+- sorted
+- sorted
+act:
+- acts
+- acting
+- acted
+- acted
+check:
+- checks
+- checking
+- checked
+- checked
+laugh:
+- laughs
+- laughing
+- laughed
+- laughed
+rock:
+- rocks
+- rocking
+- rocked
+- rocked
+claim:
+- claims
+- claiming
+- claimed
+- claimed
+seat:
+- seats
+- seating
+- seated
+- seated
+spring:
+- springs
+- springing
+- sprang
+- sprung
+visit:
+- visits
+- visiting
+- visited
+- visited
+finish:
+- finishes
+- finishing
+- finished
+- finished
+charge:
+- charges
+- charging
+- charged
+- charged
+measure:
+- measures
+- measuring
+- measured
+- measured
+fly:
+- flies
+- flying
+- flew
+- flown
+interview:
+- interviews
+- interviewing
+- interviewed
+- interviewed
+fish:
+- fishes
+- fishing
+- fished
+- fished
+worry:
+- worries
+- worrying
+- worried
+- worried
+range:
+- ranges
+- rangeing
+- ranged
+- ranged
+mention:
+- mentions
+- mentioning
+- mentioned
+- mentioned
+trouble:
+- troubles
+- troubling
+- troubled
+- troubled
+challenge:
+- challenges
+- challengeing
+- challenged
+- challenged
+fear:
+- fears
+- fearing
+- feared
+- feared
+dream:
+- dreams
+- dreaming
+- dreamed
+- dreamed
+stuff:
+- stuffs
+- stuffing
+- stuffed
+- stuffed
+heat:
+- heats
+- heating
+- heated
+- heated
+address:
+- addresses
+- addressing
+- addressed
+- addressed
+coach:
+- coaches
+- coaching
+- coached
+- coached
+beat:
+- beats
+- beating
+notice:
+- notices
+- noticing
+- noticed
+- noticed
+wish:
+- wishes
+- wishing
+- wished
+- wished
+smile:
+- smiles
+- smiling
+- smiled
+- smiled
+score:
+- scores
+- scoring
+- scored
+- scored
+account:
+- accounts
+- accounting
+- accounted
+- accounted
+vote:
+- votes
+- voting
+- voted
+- voted
+travel:
+- travels
+- travelling
+- travelled
+- travelled
+debate:
+- debates
+- debating
+- debated
+- debated
+wind:
+- winds
+- winding
+- wound
+- wound
+access:
+- accesses
+- accessing
+- accessed
+- accessed
+judge:
+- judges
+- judging
+- judged
+- judged
+release:
+- releases
+- releasing
+- released
+- released
+credit:
+- credits
+- crediting
+- credited
+- credited
+track:
+- tracks
+- tracking
+- tracked
+- tracked
+strike:
+- strikes
+- striking
+- struck
+- struck
+object:
+- objects
+- objecting
+- objected
+- objected
+conduct:
+- conducts
+- conducting
+- conducted
+- conducted
+touch:
+- touches
+- touching
+- touched
+- touched
+please:
+- pleases
+- pleasing
+- pleased
+- pleased
+sleep:
+- sleeps
+- sleeping
+- slept
+- slept
+press:
+- presses
+- pressing
+- pressed
+- pressed
+feature:
+- features
+- featuring
+- featured
+- featured
+battle:
+- battles
+- battling
+- battled
+- battled
+date:
+- dates
+- dating
+- dated
+- dated
+complete:
+- completes
+- completing
+- completed
+- completed
+stick:
+- sticks
+- sticking
+- stuck
+- stuck
+ship:
+- ships
+- shipping
+- shipped
+- shipped
+attempt:
+- attempts
+- attempting
+- attempted
+- attempted
+park:
+- parks
+- parking
+- parked
+- parked
+spot:
+- spots
+- spotting
+- spotted
+- spotted
+lack:
+- lacks
+- lacking
+- lacked
+- lacked
+drink:
+- drinks
+- drinking
+- drank
+- drunk
+handle:
+- handles
+- handling
+- handled
+- handled
+survey:
+- surveys
+- surveying
+- surveyed
+- surveyed
+roll:
+- rolls
+- rolling
+- rolled
+- rolled
+screen:
+- screens
+- screening
+- screened
+- screened
+gain:
+- gains
+- gaining
+- gained
+- gained
+shape:
+- shapes
+- shaping
+- shaped
+- shaped
+crowd:
+- crowds
+- crowding
+- crowded
+- crowded
+target:
+- targets
+- targetting
+- targetted
+- targetted
+ride:
+- rides
+- riding
+- rode
+- ridden
+guard:
+- guards
+- guarding
+- guarded
+- guarded
+demand:
+- demands
+- demanding
+- demanded
+- demanded
+average:
+- averages
+- averaging
+- averaged
+- averaged
+pound:
+- pounds
+- pounding
+- pounded
+- pounded
+block:
+- blocks
+- blocking
+- blocked
+- blocked
+count:
+- counts
+- counting
+- counted
+- counted
+shop:
+- shops
+- shopping
+- shopped
+- shopped
+jump:
+- jumps
+- jumping
+- jumped
+- jumped
+limit:
+- limits
+- limiting
+- limited
+- limited
+fit:
+- fits
+- fitting
+cry:
+- cries
+- crying
+- cried
+- cried
+associate:
+- associates
+- associating
+- associated
+- associated
+warm:
+- warms
+- warming
+- warmed
+- warmed
+comment:
+- comments
+- commenting
+- commented
+- commented
+spread:
+- spreads
+- spreading
+murder:
+- murders
+- murdering
+- murdered
+- murdered
+review:
+- reviews
+- reviewing
+- reviewed
+- reviewed
+document:
+- documents
+- documenting
+- documented
+- documented
+speed:
+- speeds
+- speeding
+- sped
+- sped
+cross:
+- crosses
+- crossing
+- crossed
+- crossed
+influence:
+- influences
+- influencing
+- influenced
+- influenced
+wave:
+- waves
+- waving
+- waved
+- waved
+suit:
+- suits
+- suiting
+- suited
+- suited
+blow:
+- blows
+- blowwing
+- blew
+- blown
+cook:
+- cooks
+- cooking
+- cooked
+- cooked
+dress:
+- dresses
+- dressing
+- dressed
+- dressed
+promise:
+- promises
+- promising
+- promised
+- promised
+function:
+- functions
+- functioning
+- functioned
+- functioned
+cool:
+- cools
+- cooling
+- cooled
+- cooled
+direct:
+- directs
+- directing
+- directed
+- directed
+contact:
+- contacts
+- contacting
+- contacted
+- contacted
+exercise:
+- exercises
+- exercising
+- exercised
+- exercised
+supply:
+- supplies
+- supplying
+- supplied
+- supplied
+search:
+- searches
+- searching
+- searched
+- searched
+tie:
+- ties
+- tiying
+- tied
+- tied
+circle:
+- circles
+- circling
+- circled
+- circled
+exchange:
+- exchanges
+- exchangeing
+- exchanged
+- exchanged
+clean:
+- cleans
+- cleaning
+- cleaned
+- cleaned
+train:
+- trains
+- training
+- trained
+- trained
+damage:
+- damages
+- damaging
+- damaged
+- damaged
+abuse:
+- abuses
+- abusing
+- abused
+- abused
+welcome:
+- welcomes
+- welcoming
+- welcomed
+- welcomed
+rain:
+- rains
+- raining
+- rained
+- rained
+desire:
+- desires
+- desiring
+- desired
+- desired
+respect:
+- respects
+- respecting
+- respected
+- respected
+paint:
+- paints
+- painting
+- painted
+- painted
+dry:
+- dries
+- drying
+- dried
+- dried
+bear:
+- bears
+- bearing
+- bore
+- born
+surprise:
+- surprises
+- surprising
+- surprised
+- surprised
+balance:
+- balances
+- balancing
+- balanced
+- balanced
+aid:
+- aids
+- aiding
+- aided
+- aided
+photograph:
+- photographs
+- photographing
+- photographed
+- photographed
+trail:
+- trails
+- trailing
+- trailed
+- trailed
+struggle:
+- struggles
+- struggling
+- struggled
+- struggled
+dance:
+- dances
+- dancing
+- danced
+- danced
+ring:
+- rings
+- ringing
+- rang
+- rung
+shift:
+- shifts
+- shifting
+- shifted
+- shifted
+mark:
+- marks
+- marking
+- marked
+- marked
+link:
+- links
+- linking
+- linked
+- linked
+stress:
+- stresses
+- stressing
+- stressed
+- stressed
+root:
+- roots
+- rooting
+- rooted
+- rooted
+launch:
+- launches
+- launching
+- launched
+- launched
+file:
+- files
+- filing
+- filed
+- filed
+mix:
+- mixes
+- mixxing
+- mixed
+- mixed
+slow:
+- slows
+- slowwing
+- slowed
+- slowed
+wake:
+- wakes
+- waking
+- woke
+- woken
+guide:
+- guides
+- guiding
+- guided
+- guided
+correct:
+- corrects
+- correcting
+- corrected
+- corrected
+estimate:
+- estimates
+- estimating
+- estimated
+- estimated
+frame:
+- frames
+- framing
+- framed
+- framed
+host:
+- hosts
+- hosting
+- hosted
+- hosted
+trust:
+- trusts
+- trusting
+- trusted
+- trusted
+appeal:
+- appeals
+- appealing
+- appealed
+- appealed
+separate:
+- separates
+- separating
+- separated
+- separated
+tear:
+- tears
+- tearing
+- tore
+- torn
+doubt:
+- doubts
+- doubting
+- doubted
+- doubted
+grant:
+- grants
+- granting
+- granted
+- granted
+stretch:
+- stretches
+- stretching
+- stretched
+- stretched
+copy:
+- copies
+- copying
+- copied
+- copied
+tip:
+- tips
+- tipping
+- tipped
+- tipped
+aim:
+- aims
+- aiming
+- aimed
+- aimed
+rush:
+- rushes
+- rushing
+- rushed
+- rushed
+witness:
+- witnesses
+- witnessing
+- witnessed
+- witnessed
+match:
+- matches
+- matching
+- matched
+- matched
+flow:
+- flows
+- flowwing
+- flowed
+- flowed
+waste:
+- wastes
+- wasting
+- wasted
+- wasted
+bomb:
+- bombs
+- bombing
+- bombed
+- bombed
+decline:
+- declines
+- declining
+- declined
+- declined
+taste:
+- tastes
+- tasting
+- tasted
+- tasted
+escape:
+- escapes
+- escaping
+- escaped
+- escaped
+cast:
+- casts
+- casting
+signal:
+- signals
+- signalling
+- signalled
+- signalled
+honor:
+- honors
+- honoring
+- honored
+- honored
+regard:
+- regards
+- regarding
+- regarded
+- regarded
+display:
+- displays
+- displaying
+- displayed
+- displayed
+suspect:
+- suspects
+- suspecting
+- suspected
+- suspected
+permit:
+- permits
+- permitting
+- permitted
+- permitted
+graduate:
+- graduates
+- graduating
+- graduated
+- graduated
+request:
+- requests
+- requesting
+- requested
+- requested
+arrest:
+- arrests
+- arresting
+- arrested
+- arrested
+schedule:
+- schedules
+- scheduling
+- scheduled
+- scheduled
+post:
+- posts
+- posting
+- posted
+- posted
+purchase:
+- purchases
+- purchasing
+- purchased
+- purchased
+slide:
+- slides
+- sliding
+- slid
+- slid
+double:
+- doubles
+- doubling
+- doubled
+- doubled
+print:
+- prints
+- printing
+- printed
+- printed
+lock:
+- locks
+- locking
+- locked
+- locked
+joke:
+- jokes
+- joking
+- joked
+- joked
+quote:
+- quotes
+- quoting
+- quoted
+- quoted
+pack:
+- packs
+- packing
+- packed
+- packed
+volunteer:
+- volunteers
+- volunteering
+- volunteered
+- volunteered
+advance:
+- advances
+- advancing
+- advanced
+- advanced
+shock:
+- shocks
+- shocking
+- shocked
+- shocked
+kiss:
+- kisses
+- kissing
+- kissed
+- kissed
+transfer:
+- transfers
+- transferring
+- transferred
+- transferred
+monitor:
+- monitors
+- monitoring
+- monitored
+- monitored
+round:
+- rounds
+- rounding
+- rounded
+- rounded
+command:
+- commands
+- commanding
+- commanded
+- commanded
+smell:
+- smells
+- smelling
+- smelled
+- smelled
+smoke:
+- smokes
+- smoking
+- smoked
+- smoked
+glance:
+- glances
+- glancing
+- glanced
+- glanced
+peer:
+- peers
+- peering
+- peered
+- peered
+swing:
+- swings
+- swinging
+- swung
+- swung
+secure:
+- secures
+- securing
+- secured
+- secured
+favor:
+- favors
+- favorring
+- favorred
+- favorred
+pop:
+- pops
+- popping
+- popped
+- popped
+award:
+- awards
+- awarding
+- awarded
+- awarded
+switch:
+- switches
+- switching
+- switched
+- switched
+label:
+- labels
+- labelling
+- labelled
+- labelled
+advocate:
+- advocates
+- advocating
+- advocated
+- advocated
+draft:
+- drafts
+- drafting
+- drafted
+- drafted
+rank:
+- ranks
+- ranking
+- ranked
+- ranked
+yield:
+- yields
+- yielding
+- yielded
+- yielded
+bet:
+- bets
+- betting
+encounter:
+- encounters
+- encountering
+- encountered
+- encountered
+strip:
+- strips
+- stripping
+- stripped
+- stripped
+guarantee:
+- guarantees
+- guaranteeing
+- guaranteed
+- guaranteed
+pause:
+- pauses
+- pausing
+- paused
+- paused
+finance:
+- finances
+- financing
+- financed
+- financed
+sink:
+- sinks
+- sinking
+- sank
+- sunk
+counter:
+- counters
+- counterring
+- counterred
+- counterred
+protest:
+- protests
+- protesting
+- protested
+- protested
+crash:
+- crashes
+- crashing
+- crashed
+- crashed
+load:
+- loads
+- loading
+- loaded
+- loaded
+divorce:
+- divorces
+- divorcing
+- divorced
+- divorced
+pile:
+- piles
+- piling
+- piled
+- piled
+crack:
+- cracks
+- cracking
+- cracked
+- cracked
+trace:
+- traces
+- tracing
+- traced
+- traced
+delay:
+- delays
+- delaying
+- delayed
+- delayed
+bite:
+- bites
+- biting
+- bit
+- bitten
+pitch:
+- pitches
+- pitching
+- pitched
+- pitched
+wound:
+- wounds
+- wounding
+- wounded
+- wounded
+collapse:
+- collapses
+- collapsing
+- collapsed
+- collapsed
+brush:
+- brushes
+- brushing
+- brushed
+- brushed
+ease:
+- eases
+- easing
+- eased
+- eased
+ban:
+- bans
+- banning
+- banned
+- banned
+exhibit:
+- exhibits
+- exhibiting
+- exhibited
+- exhibited
+gaze:
+- gazes
+- gazing
+- gazed
+- gazed
+defeat:
+- defeats
+- defeating
+- defeated
+- defeated
+slice:
+- slices
+- slicing
+- sliced
+- sliced
+upset:
+- upsets
+- upsetting
+remark:
+- remarks
+- remarking
+- remarked
+- remarked
+reward:
+- rewards
+- rewarding
+- rewarded
+- rewarded
+stem:
+- stems
+- stemming
+- stemmed
+- stemmed
+rent:
+- rents
+- renting
+- rented
+- rented
+pump:
+- pumps
+- pumping
+- pumped
+- pumped
+sponsor:
+- sponsors
+- sponsorring
+- sponsorred
+- sponsorred
+excuse:
+- excuses
+- excusing
+- excused
+- excused
+flash:
+- flashes
+- flashing
+- flashed
+- flashed
+trap:
+- traps
+- trapping
+- trapped
+- trapped
+flood:
+- floods
+- flooding
+- flooded
+- flooded
+broadcast:
+- broadcasts
+- broadcasting
+tune:
+- tunes
+- tuning
+- tuned
+- tuned
+harm:
+- harms
+- harming
+- harmed
+- harmed
+strain:
+- strains
+- straining
+- strained
+- strained
+praise:
+- praises
+- praising
+- praised
+- praised
+reserve:
+- reserves
+- reserving
+- reserved
+- reserved
+compromise:
+- compromises
+- compromising
+- compromised
+- compromised
+twist:
+- twists
+- twisting
+- twisted
+- twisted
+hook:
+- hooks
+- hooking
+- hooked
+- hooked
+rescue:
+- rescues
+- rescuing
+- rescueed
+- rescueed
+repair:
+- repairs
+- repairing
+- repaired
+- repaired
+seal:
+- seals
+- sealing
+- sealed
+- sealed
+sacrifice:
+- sacrifices
+- sacrificing
+- sacrificed
+- sacrificed
+bow:
+- bows
+- bowwing
+- bowed
+- bowed
+grin:
+- grins
+- grinning
+- grinned
+- grinned
+calm:
+- calms
+- calming
+- calmed
+- calmed
+cure:
+- cures
+- curing
+- cured
+- cured
+transport:
+- transports
+- transporting
+- transported
+- transported
+harvest:
+- harvests
+- harvesting
+- harvested
+- harvested

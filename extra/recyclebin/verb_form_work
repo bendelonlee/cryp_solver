@@ -1,0 +1,21 @@
+
+  OLD_VERBS = DICTIONARY.select{|k,v| v == ['v']}.keys
+
+  NEW_VERBS = VERBS - OLD_VERBS
+  NEW_VF = {}
+
+  NEW_VERBS.each do |word|
+    [{},{aspect: :progressive}, {tense: :past, aspect: :perfective}, {tense: :past, aspect: :perfect}].each do |form|
+      to_add = Verbs::Conjugator.conjugate(word.to_sym, form).sub("is ", "").sub("had ", "")
+      unless word == to_add || NEW_VF[word] && NEW_VF.include?(to_add)
+        unless NEW_VF[word]
+          NEW_VF[word] = [to_add]
+        else
+          NEW_VF[word] << to_add
+        end
+      end
+    end
+  end
+  NEW_VERB_FORMS_HASH = VERB_FORMS_HASH.merge(NEW_VF)
+
+  File.write("verb_forms_new.yml", NEW_VERB_FORMS_HASH.to_yaml)
